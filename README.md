@@ -8,4 +8,3 @@
 - 👯 I’m looking to collaborate on Open Source Projects
 - 🤔 I’m looking for help with React Projects
 - 📫 How to reach me: tripathy.prateek@gmail.com
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tripathyprateek)](https://github.com/anuraghazra/github-readme-stats)
